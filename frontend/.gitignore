@@ -1,2 +1,4 @@
+# Compile artifacts
 dist/
 target/
+Cargo.lock

@@ -2,5 +2,9 @@
 name = "frontend"
 version = "0.1.0"
 edition = "2021"
+description = "https://www.cystem.dev"
+repository = "https://github.com/sucystem/CYSTEM"
+license = "MIT"
 
 [dependencies]
+yew = { version="0.20", features=["csr"] }
